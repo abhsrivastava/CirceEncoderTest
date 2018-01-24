@@ -1,4 +1,4 @@
-import io.circe._, io.circe.syntax._, io.circe.parser._, io.circe.generic.auto._
+import io.circe._, io.circe.syntax._, io.circe.parser._
 
 import com.abhi.models.Foo
 import com.abhi.models.Bar
